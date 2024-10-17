@@ -18,7 +18,7 @@ Programa exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="Projeto Formulário de Convite" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Travelgram | Perfil de viagens" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
